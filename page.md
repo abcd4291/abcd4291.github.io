@@ -1,5 +1,5 @@
 ---	
-layout:master
+
 <body>
     <center>
       <div style="background-image: url('oil.jpg')"">
