@@ -1,37 +1,112 @@
 ---	
-
+title:
+description
+layout:
+---
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>7 wonders of the world</title>
+  </head>
+  <body>
+    <link rel="stylesheet" type="text/css" href="tourist.css">
 <body>
-    <center>
-      <div style="background-image: url('oil.jpg')"">
-      <div class="abc d">
-       <h1>Recipe for making Corn dog</h1>
-       <h3>Difficulty: You need to use boiling oil, so children need their parents <img src="oil-bottle (1).png" width="30px" ></h3>
-       <h3>Time: 20min <img src="alarm-clock.png" width="30px" ></h3>
-       <h3>Serving: You can make  four Corndogs by using this recipe <img src="human.png" width="30px" > </h3>
-       <!--I think this is just for one person. 4 Corndogs are not a lot for me...-->
-       <h3> Calories: 465 calories (per 1) <img src="calories.png" width="30px" ></h3>
-      </div>    
 
-    <button type="submit"><a href="recipe0.html">Ingredients</button>
-        <br></br>
-        <br></br>
-    <button type="submit"><a href="recipe.1.html">Step 1</button>
-        <br></br>
-        <br></br>
-        <button type="submit"><a href="recipe2.html">Step 2</button>
+<h1>7 Wonders of the world</h1>
+<h2>Explore some weird places in the world!</h2>
+<center>
+  
+
+
+  <a href="tourist 2.html" target="_blank">1.Paricutin</a>
+
+<img src="m.jpg" width="650" height="370px"title="Paricutin" alt="Flower">
+    <br></br>
+<center>
+
+  <a href="Milford.html" target="_blank">2.Milford</a>
+
+<img src="Milford-Sound.jpg" width="650" height="370px" title="Milford" alt="Flower">
+
+    <br></br>
+
+<center>
+
+  <a href="Pamukkale.html" target="_blank">3.Pamukkale</a>
+
+<img src="p.jpg" width="650" height="370px" title="Pamukkale" alt="Flower">
+
+    <br></br>
+
+<center>
+
+  <a href="angelfalls.html" target="_blank">4.Angel Falls</a>
+
+  <img src="a.jpg" width="650" height="370px" title="anglesfalls" alt="Flower">
+
+    <br></br>
+
+  <center>
+
+    <a href="ululu.html" target="_blank">5.Ululu</a>
+
+  <img src="u.jpg" width="650" height="370px"title="ululu" alt="Flower">
+
+    <br></br>
+
+<center>
+
+  <a href="yakushima.html" target="_blank">6.Yakushima</a>
+
+    <img src="y.jpg" width="650" height="370px"title="yakushima" alt="Flower">
+
+    <br></br>
+
+    <center>
+
+      <a href="Troll wall.html" target="_blank">7.Troll Wall</a>
+
+      <img src="t.jpg" width="650" height="370px"title="torll wall" alt="Flower">
+
+    <br></br>
+
+      <center>
+
+        <a href="Bigar waterfall.html" target="_blank">8.Bigar Waterfall</a>
+
+      <img src="b.jpg" width="650" height="370px"title="bıgar waterfall" alt="Flower">
+
+    <br></br>
+
+      <center>
+
+        <a href="Thor.html" target="_blank">9.Thor Peak</a>
+
+        <img src="thor.jpg" width="650" height="370px"title="Thor peak" alt="Flower">
+
             <br></br>
+
+            <center>
+
+              <a href="Schwarzwald.html" target="_blank">10.Schwarzwald</a>
+
+          <img src="Schwarzwald.jpg" width="650" height="370px"title="Schwarzwald" alt="Flower">
+
+    <br></br>
+
+          <center>
+
+            <a href="Lake.html" target="_blank">11.Lake Baikal</a>
+
+            <img src="l.jpg" width="650" height="370px"title="Lake Baıkal" alt="Flower">
+
             <br></br>
-        <button type="submit"><a href="recipe3.html">Step 3</button>
-            <br></br>
-            <br></br>
-            <button type="submit"><a href="recipe5.html">Step 4</button>
-                <br></br>
-                <br></br>
-          
-          <br></br>
-          <br></br> 
-          <br></br>
-          <br></br>
-          <h5>Source: http://www.easykoreanfood.com/Korean-Hot-Dog.html</h5>
-      </div>
+
+            <center>
+
+              <a href="bemaraha.html" target="_blank">12.Bemaraha</a>
+
+              <img src="bemaraha.jpg" width="650" height="370px"title="Bemaraha" alt="Flower">
 </body>
+</html>
