@@ -1,6 +1,4 @@
----
-title:	
-descrption:	
+---	
 layout:master
 <body>
     <center>
