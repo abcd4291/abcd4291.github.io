@@ -1,0 +1,32 @@
+
+h2{background-color:yellow;
+text-align: left;
+font-size:50pt;
+font-style:cooper black;}
+
+h3{color:AliceBlue;
+margin: 100pt;
+text-align: center;
+font-size:40pt;
+Font-style:italic;}
+
+
+h4{color: AliceBlue;
+margin: 0pt;
+text-align: center;
+font-size:30pt;
+Font-style:italic;
+Text-decoration:underline}
+
+h5{color: AliceBlue;
+margin: 0pt;
+text-align: center;
+font-size:50pt;
+Font-style:italic;
+Text-decoration:bold;}
+
+h6 > p{color:#DCF6FF;
+  font-family: cursive;
+font-size:15pt;}
+
+body{background-color:#5f1f11}
