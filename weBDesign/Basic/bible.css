@@ -1,0 +1,33 @@
+h1{color:white;
+background:black;
+font-family:Vladimir Script;
+font-size:30pt;
+text-align:center;}
+h2{color:black;
+background:white;
+font-family:Vladimir Script;
+font-size:50pt;
+text-align:center;
+font-stlye:bold;}
+h3{color:white;
+background:black;
+font-family:Script MT Bold;
+font-size:30pt;
+text-align:center;}
+h4{color:black;
+background:white;
+font-family:Script MT Bold;
+font-size:50pt;
+text-align:center;
+font-stlye:bold;}
+h5{color:white;
+background:black;
+font-family:Algerian;
+font-size:30pt;
+text-align:center;}
+h6{color:black;
+background:white;
+font-family:Algerian;
+font-size:30pt;
+text-align:center;}
+body{background-color:#D0D3D4;}

@@ -1,0 +1,10 @@
+a {
+  color:white;
+  font-size: 80pt;
+  margin:100pt;
+  line height: 5;
+  color:white;
+  font-style: italic;
+  text-align:right;
+}
+body{background-color:lightblue;}

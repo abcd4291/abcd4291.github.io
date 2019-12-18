@@ -1,0 +1,47 @@
+h1{color:black;
+background-color: white;
+margin:0pt;
+text-align: center;
+font-size:16pt;
+line-height: 70pt;
+font-style:bold;}
+
+h2{color:black;
+background-color: white;
+margin:0pt;
+text-align: right;
+font-size:28pt;
+line-height: 65pt;
+font-style:bold;}
+
+h3{color:red;
+background-color: gold;
+margin:40pt;
+text-align: center;
+font-size:30pt;
+line-height: 40pt;
+font-style:bold;}
+
+h4{color:green;
+background-color:white;
+margin:0pt;
+text-align: center;
+font-size:16pt;
+line-height: 65pt;
+font-style:bold;}
+
+h5{color:red;
+background-color: black;
+margin:20pt;
+text-align: left;
+font-size:24pt;
+line-height: 1.5pt;
+font-style:bold;}
+
+h6{color:white;
+background-color:green;
+margin: 20pt;
+text-align: right;
+font-size:34pt;
+line-height: 3.5pt;
+font-style:bold;}

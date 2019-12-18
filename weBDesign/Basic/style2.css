@@ -1,0 +1,32 @@
+h3{color: blue;
+background-color:silver;
+margin: 50pt;
+text-align: left;
+font-size: 90pt;
+line-height:3;
+Font-style:italic;
+Text-decoration:underline}
+
+h4{color:Green;
+text-align:left;
+font:80pt;
+line-height:15;
+Font-style:italic;
+Text-decoration:underline}
+
+h5{color:red;
+background-color:black;
+text-align:left;
+font-size:20pt;
+line-height:15;
+Font-style:italic;
+Text-decoration:underline}
+
+h6{color:white;
+margin:20pt;
+background-color:Green;
+text-align:left;
+font-size:30pt;
+line-height:1;
+Font-style:italic;
+}
