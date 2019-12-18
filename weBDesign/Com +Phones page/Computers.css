@@ -1,0 +1,32 @@
+body {background-color: #000000}
+h1{color:black;
+  text-shadow: #999;
+  box-shadow: #999;
+background:white;
+margin:10px;}
+button:active{
+    text-align: center;
+    background-color: white;
+  box-shadow: 1px white;
+  transform: translateY(4px);
+}
+button{
+  height:30%;
+  width:32%;
+    text-align: center;
+  border-radius: 0px;
+  box-shadow: 0 9px #999;
+  cursor: pointer;
+  padding: 35px 45px;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+  background-color:white;
+  color: black  ;
+border: none;
+text-align: center;
+text-decoration: none;
+font-size: 15px;
+button:hover;
+}
+img{height: 100xp;
+    width: 100xp;}

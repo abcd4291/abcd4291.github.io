@@ -1,0 +1,33 @@
+
+body{
+  background-color: black;
+}
+div style{height:100%; width: 100%}
+input{
+  border-radius: 15px;
+  font-size:30px;}
+h1{font-size: 60px;
+    color:white;
+    font-style:italic;}
+button:active{
+    background-color: white;
+  box-shadow: 1px white;
+  transform: translateY(4px);
+}
+button{
+  margin:auto;
+  display:block;
+  border-radius: 30px;
+  box-shadow: 0 9px #999;
+  cursor: pointer;
+  padding: 25px 35px;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+  background-color:white;
+  color: black  ;
+border: none;
+text-align: center;
+text-decoration: none;
+font-size: 20px;
+button:hover;
+}
